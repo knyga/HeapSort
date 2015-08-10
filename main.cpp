@@ -1,4 +1,3 @@
-/* printf example */
 #include <stdio.h>
 
 void makeHeap(int* arr, int length);
